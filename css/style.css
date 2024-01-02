@@ -1,0 +1,10 @@
+body{
+	background-color: #eee;
+}
+.page-wrapper{
+width: 900px;	
+margin:5% auto;
+padding: 15px;
+background-color:white;
+box-shadow: 1px 1px 1px 1px black;
+}
